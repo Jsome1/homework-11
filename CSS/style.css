@@ -13,7 +13,7 @@
 
   --container-max: 1440px;
 }
-
+/* Body */
 body {
   margin: 0;
   font-family: var(--font-family);
