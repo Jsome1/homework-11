@@ -1,0 +1,26 @@
+@media (max-width: 320px) {
+  .container {
+    padding: 16px;
+  }
+
+  .card-section {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .card-section article:nth-child(n + 5) {
+    display: none;
+  }
+
+  .img1 {
+    height: 200px;
+  }
+
+  .filter-section {
+    margin-bottom: 20px;
+  }
+
+  .section3-3 {
+    margin-top: 20px;
+  }
+}
